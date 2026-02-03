@@ -35,3 +35,4 @@ public class StackUsingQueue<E> implements StackADT<E> {
     public E pop() {
         return q.dequeue();
     }
+}
